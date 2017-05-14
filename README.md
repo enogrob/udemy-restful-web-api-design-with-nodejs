@@ -16,25 +16,26 @@ Explore the practical side of REST to build data-centric applications with Node.
 ## Topics
 ```
 0 / 6
+Section: 1
 REST Fundamentals
-[ ] 1. The Course Overview 2:25
-[ ] 2. What Is an API? 2:24
-[ ] 3. Communication via HTTP 6:50
-[ ] 4. Identifying REST Resources 4:28
-[ ] 5. Properties of RESTful APIs 6:51
-[ ] 6. Setting Up the Environment 7:08
+[x] 1. The Course Overview 2:25
+[x] 2. What Is an API? 2:24
+[x] 3. Communication via HTTP 6:50
+[x] 4. Identifying REST Resources 4:28
+[x] 5. Properties of RESTful APIs 6:51
+[x] 6. Setting Up the Environment 7:08
 
 Section: 2
 0 / 8
 Consuming a RESTful API
-[ ] 7. A Look at OAuth 1.0a 5:45
-[ ] 8. Sample Application Code Architecture 4:57
-[ ] 9. Creating an OAuth Login Request 6:09
-[ ] 10. Getting an Access Token 3:28
-[ ] 11. Exploring Twitter’s REST API 7:01
-[ ] 12. Accessing Cursored Collections with Async.js 8:08
-[ ] 13. Choosing a Database 5:00
-[ ] 14. Saving Data in MongoDB 7:48
+[x] 7. A Look at OAuth 1.0a 5:45
+[x] 8. Sample Application Code Architecture 4:57
+[x] 9. Creating an OAuth Login Request 6:09
+[x] 10. Getting an Access Token 3:28
+[x] 11. Exploring Twitter’s REST API 7:01
+[x] 12. Accessing Cursored Collections with Async.js 8:08
+[x] 13. Choosing a Database 5:00
+[x] 14. Saving Data in MongoDB 7:48
 
 Section: 3
 0 / 5
